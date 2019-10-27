@@ -1,4 +1,3 @@
-// ==UserScript==
 // @name         Recaptcha clicker
 // @namespace    http://tampermonkey.net/
 // @version      0.1
